@@ -1,5 +1,6 @@
 "This is a cool new file" 
-
-first line
+my new first line
 second line
 third line
+fourth line
+fifth line
